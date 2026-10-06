@@ -149,15 +149,3 @@ Output will be in the `dist/` directory as an NSIS installer.
 ## License
 
 MIT
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
